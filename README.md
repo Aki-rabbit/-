@@ -1,6 +1,4 @@
-# -
-
-# Trip Phrase Cards (仮)
+# Trip Phrase Cards 
 
 ## Overview
 海外旅行で使える「ちょっとした一言」を、現地の言葉でさっと確認できるフレーズカードアプリ。
